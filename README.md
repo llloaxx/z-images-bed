@@ -1,1 +1,1 @@
-# zealginjoka-images-bed
+# z-images-bed
